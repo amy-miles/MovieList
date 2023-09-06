@@ -1,0 +1,6 @@
+C:\Users\almds\source\repos\MovieListMiles\MovieListMiles\obj\Debug\net6.0\MovieListMiles.csproj.AssemblyReference.cache
+C:\Users\almds\source\repos\MovieListMiles\MovieListMiles\obj\Debug\net6.0\MovieListMiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\almds\source\repos\MovieListMiles\MovieListMiles\obj\Debug\net6.0\MovieListMiles.AssemblyInfoInputs.cache
+C:\Users\almds\source\repos\MovieListMiles\MovieListMiles\obj\Debug\net6.0\MovieListMiles.AssemblyInfo.cs
+C:\Users\almds\source\repos\MovieListMiles\MovieListMiles\obj\Debug\net6.0\MovieListMiles.csproj.CoreCompileInputs.cache
+C:\Users\almds\source\repos\MovieListMiles\MovieListMiles\obj\Debug\net6.0\MovieListMiles.MvcApplicationPartsAssemblyInfo.cache
